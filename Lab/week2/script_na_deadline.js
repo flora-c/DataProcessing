@@ -18,10 +18,6 @@ window.onload = function() {
 			temps.push(Number(sliced[i]));
 		}
 	}
-	//var max_temp = Math.max(temps[]), min_temp = -50;
-	var max_temp = Math.max.array(temps);
-	console.log(max_temp);
-
 
 	var new_dates = [];
 	var one_day = 1000 * 60 * 60 * 24;
@@ -80,7 +76,7 @@ function draw_graph (dates, temps) {
 	}
 
 	// draw y-axis values and value lines
-	// var max_temp = Math.max(temps), min_temp = -50;
+	var max_temp = Math.max(temps), min_temp = -50;
 	var cur_temp = -50;
 	var y_axis = 339;
 	var y_value_distance = (339 - 39)/8;
