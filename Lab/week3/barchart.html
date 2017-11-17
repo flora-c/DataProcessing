@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Data Processing Barchart</title>
+  <style>
+    body {
+      font-family: verdana;
+    }
+
+    .chart rect {
+      fill: slategray;
+    }
+
+    .chart rect:hover {
+      fill: skyblue
+    }
+
+    .chart text {
+      fill: black;
+      font: 10px sans-serif;
+      text-anchor: end;
+    }
+
+    .axis text {
+      font: 10px sans-serif;
+    }
+
+    .axis path,
+    .axis line {
+      fill: none;
+      stroke: #000;
+      shape-rendering: crispEdges;
+    }
+
+    .x.axis path {
+      display: none;
+    }
+  </style>
+
+  <script src="//d3js.org/d3.v3.min.js" charset="utf-8"></script>
+</head>
+
+<body>
+  <div>
+    <h3>Duration of rainfall (De Bilt, oct. 2017)</h3>
+
+    <svg class="chart"></svg>
+  </div>
+</body>
+
+<script src="barchart.js"></script>
+
+</html>
