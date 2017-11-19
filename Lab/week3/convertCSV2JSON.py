@@ -13,11 +13,9 @@ reader = csv.DictReader(input_file, fieldnames = columns)
 
 # write jsonfile
 jsonfile = open("file.json", "w")
-# jsonfile.write('{"data":')
 data = []
 
 for row in reader:
     data.append(row)
 
 json.dump(data, jsonfile, indent = 4)
-# jsonfile.write("}")
