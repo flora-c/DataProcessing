@@ -1,0 +1,34 @@
+/*
+** Flora Boudewijnse
+** Student number: 10196153
+**
+** Stylesheet for d3line.html
+*/
+
+/* layout text */
+body {
+  font: 11px sans-serif;
+}
+
+p {
+  margin-left:3em;
+}
+
+/* style line-graph */
+/*.axis--x path {
+  display: none;
+}*/
+
+.axis path
+.axis line {
+  fill: none;
+  stroke: grey;
+  stroke-width: 1;
+  shape-rendering: crispEdges
+}
+
+/*.line {
+  fill: none;
+  stroke: purple;
+  stroke-width: 1.5px;
+}*/
