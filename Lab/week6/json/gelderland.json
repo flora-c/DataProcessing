@@ -1,0 +1,122 @@
+[
+    {
+        "party": "VVD", 
+        "votes": "122452",
+        "percentage": "15.79",
+        "seats": "9"
+    },
+    {
+        "party": "CDA",
+        "votes": "116322",
+        "percentage": "15.00",
+        "seats": "9"
+    },
+    {
+        "party": "Democraten 66 (D66)",
+        "votes": "97845",
+        "percentage": "12.62",
+        "seats": "7"
+    },
+    {
+        "party": "SP (Socialistische Partij)",
+        "votes": "85260",
+        "percentage": "11.00",
+        "seats": "6"
+    },
+    {
+        "party": "PVV (Partij voor de Vrijheid)",
+        "votes": "75356",
+        "percentage": "9.72",
+        "seats": "5"
+    },
+    {
+        "party": "Partij van de Arbeid (P.v.d.A.)",
+        "votes": "70093",
+        "percentage": "9.04",
+        "seats": "6"
+    },
+    {
+        "party": "ChristenUnie",
+        "votes": "47444",
+        "percentage": "6.12",
+        "seats": "4"
+    },
+    {
+        "party": "Staatkundig Gereformeerde Partij (SGP)",
+        "votes": "46395",
+        "percentage": "5.98",
+        "seats": "3"
+    },
+    {
+        "party": "GROENLINKS",
+        "votes": "44277",
+        "percentage": "5.71",
+        "seats": "3"
+    },
+    {
+        "party": "Partij voor de Dieren",
+        "votes": "25924",
+        "percentage": "3.34",
+        "seats": "2"
+    },
+    {
+        "party": "50PLUS",
+        "votes": "22271",
+        "percentage": "2.87",
+        "seats": "1"
+    },
+    {
+        "party": "Lokaal Belang Gelderland / 1 Achterhoek",
+        "votes": "6967",
+        "percentage": "0.90",
+        "seats": "0"
+    },
+    {
+        "party": "Lokale Partijen Gelderland",
+        "votes": "6474",
+        "percentage": "0.83",
+        "seats": "0"
+    },
+    {
+        "party": "Partij voor Mens en Spirit (MenS)",
+        "votes": "2481",
+        "percentage": "0.32",
+        "seats": "0"
+    },
+    {
+        "party": "PSP'92 Gelderland",
+        "votes": "2348",
+        "percentage": "0.30",
+        "seats": "0"
+    },
+    {
+        "party": "Vrede en Recht",
+        "votes": "1337",
+        "percentage": "0.17",
+        "seats": "0"
+    },
+    {
+        "party": "Libertarische Partij",
+        "votes": "1008",
+        "percentage": "0.13",
+        "seats": "0"
+    },
+    {
+        "party": "Vrijzinnige Partij",
+        "votes": "706",
+        "percentage": "0.09",
+        "seats": "0"
+    },
+    {
+        "party": "Gelderse Centrumdemocraten (Gelderse C.D.)",
+        "votes": "456",
+        "percentage": "0.06",
+        "seats": "0"
+    },
+    {
+        "party": "totaal",
+        "votes": "775416",
+        "percentage": "100",
+        "seats": "55"
+    }
+]

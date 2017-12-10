@@ -1,0 +1,80 @@
+[
+    {
+        "party": "\ufeffCDA", 
+        "votes": "89567", 
+        "percentage": "22.94", 
+        "seats": "11"
+    }, 
+    {
+        "party": "PVV (Partij voor de Vrijheid)", 
+        "votes": "69536", 
+        "percentage": "17.81", 
+        "seats": "9"
+    }, 
+    {
+        "party": "SP (Socialistische Partij)", 
+        "votes": "60650", 
+        "percentage": "15.53", 
+        "seats": "8"
+    }, 
+    {
+        "party": "VVD", 
+        "votes": "45050", 
+        "percentage": "11.54", 
+        "seats": "5"
+    }, 
+    {
+        "party": "Democraten 66 (D66)", 
+        "votes": "36777", 
+        "percentage": "9.42", 
+        "seats": "4"
+    }, 
+    {
+        "party": "Partij van de Arbeid (P.v.d.A.)", 
+        "votes": "28406", 
+        "percentage": "7.27", 
+        "seats": "4"
+    }, 
+    {
+        "party": "GROENLINKS", 
+        "votes": "15124", 
+        "percentage": "3.87", 
+        "seats": "2"
+    }, 
+    {
+        "party": "50PLUS", 
+        "votes": "14595", 
+        "percentage": "3.74", 
+        "seats": "1"
+    }, 
+    {
+        "party": "Partij voor de Dieren", 
+        "votes": "11533", 
+        "percentage": "2.95", 
+        "seats": "1"
+    }, 
+    {
+        "party": "Volkspartij Limburg", 
+        "votes": "9296", 
+        "percentage": "2.38", 
+        "seats": "1"
+    }, 
+    {
+        "party": "LOKAAL-LIMBURG", 
+        "votes": "8741", 
+        "percentage": "2.24", 
+        "seats": "1"
+    }, 
+    {
+        "party": "Partij voor Leefbaarheid en Democratie", 
+        "votes": "1218", 
+        "percentage": "0.31", 
+        "seats": "0"
+    }, 
+    {
+        "party": "totaal", 
+        "votes": "390493", 
+        "percentage": "100", 
+        "seats": "47"
+    }
+]

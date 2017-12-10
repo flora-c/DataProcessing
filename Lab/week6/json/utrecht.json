@@ -1,0 +1,98 @@
+[
+    {
+        "party": "VVD", 
+        "votes": "86469",
+        "percentage": "17.45",
+        "seats": "9"
+    },
+    {
+        "party": "Democraten 66 (D66)",
+        "votes": "86365",
+        "percentage": "17.43",
+        "seats": "9"
+    },
+    {
+        "party": "CDA",
+        "votes": "60155",
+        "percentage": "12.14",
+        "seats": "6"
+    },
+    {
+        "party": "Partij van de Arbeid (P.v.d.A.)",
+        "votes": "45316",
+        "percentage": "9.15",
+        "seats": "5"
+    },
+    {
+        "party": "PVV (Partij voor de Vrijheid)",
+        "votes": "44689",
+        "percentage": "9.02",
+        "seats": "4"
+    },
+    {
+        "party": "SP (Socialistische Partij)",
+        "votes": "43794",
+        "percentage": "8.84",
+        "seats": "4"
+    },
+    {
+        "party": "GROENLINKS",
+        "votes": "37574",
+        "percentage": "7.58",
+        "seats": "4"
+    },
+    {
+        "party": "ChristenUnie",
+        "votes": "30541",
+        "percentage": "6.16",
+        "seats": "3"
+    },
+    {
+        "party": "Partij voor de Dieren",
+        "votes": "20520",
+        "percentage": "4.14",
+        "seats": "2"
+    },
+    {
+        "party": "Staatkundig Gereformeerde Partij (SGP)",
+        "votes": "19522",
+        "percentage": "3.94",
+        "seats": "2"
+    },
+    {
+        "party": "50PLUS",
+        "votes": "14247",
+        "percentage": "2.88",
+        "seats": "1"
+    },
+    {
+        "party": "Provincie@Inwonersbelangen",
+        "votes": "3881",
+        "percentage": "0.78",
+        "seats": "0"
+    },
+    {
+        "party": "JEZUS LEEFT",
+        "votes": "1117",
+        "percentage": "0.23",
+        "seats": "0"
+    },
+    {
+        "party": "Libertarische Partij (LP)",
+        "votes": "627",
+        "percentage": "0.13",
+        "seats": "0"
+    },
+    {
+        "party": "Vrijzinnige Partij",
+        "votes": "605",
+        "percentage": "0.12",
+        "seats": "0"
+    },
+    {
+        "party": "totaal",
+        "votes": "495422",
+        "percentage": "100",
+        "seats": "49"
+    }
+]

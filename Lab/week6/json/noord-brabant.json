@@ -1,0 +1,98 @@
+[
+    {
+        "party": "VVD", 
+        "votes": "144376",
+        "percentage": "17.45",
+        "seats": "10"
+    },
+    {
+        "party": "CDA",
+        "votes": "142599",
+        "percentage": "17.24",
+        "seats": "9"
+    },
+    {
+        "party": "SP (Socialistische Partij)",
+        "votes": "133565",
+        "percentage": "16.14",
+        "seats": "9"
+    },
+    {
+        "party": "PVV (Partij voor de Vrijheid)",
+        "votes": "106042",
+        "percentage": "12.82",
+        "seats": "7"
+    },
+    {
+        "party": "Democraten 66 (D66)",
+        "votes": "99912",
+        "percentage": "12.08",
+        "seats": "7"
+    },
+    {
+        "party": "Partij van de Arbeid (P.v.d.A.)",
+        "votes": "66197",
+        "percentage": "8.00",
+        "seats": "4"
+    },
+    {
+        "party": "GROENLINKS",
+        "votes": "37547",
+        "percentage": "4.54",
+        "seats": "3"
+    },
+    {
+        "party": "50PLUS",
+        "votes": "35455",
+        "percentage": "4.29",
+        "seats": "2"
+    },
+    {
+        "party": "Partij voor de Dieren",
+        "votes": "26092",
+        "percentage": "3.15",
+        "seats": "2"
+    },
+    {
+        "party": "ChristenUnie-SGP",
+        "votes": "16769",
+        "percentage": "2.03",
+        "seats": "1"
+    },
+    {
+        "party": "Lokaal Brabant",
+        "votes": "15226",
+        "percentage": "1.84",
+        "seats": "1"
+    },
+    {
+        "party": "Libertarische Partij (LP)",
+        "votes": "1483",
+        "percentage": "0.18",
+        "seats": "0"
+    },
+    {
+        "party": "PLATFORM VRIJE POLITIEK",
+        "votes": "836",
+        "percentage": "0.10",
+        "seats": "0"
+    },
+    {
+        "party": "StemNL",
+        "votes": "648",
+        "percentage": "0.08",
+        "seats": "0"
+    },
+    {
+        "party": "JEZUS LEEFT",
+        "votes": "593",
+        "percentage": "0.07",
+        "seats": "0"
+    },
+    {
+        "party": "totaal",
+        "votes": "827340",
+        "percentage": "100",
+        "seats": "55"
+    }
+]

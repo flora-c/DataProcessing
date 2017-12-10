@@ -1,0 +1,122 @@
+[
+    {
+        "party": "SP (Socialistische Partij)", 
+        "votes": "39093",
+        "percentage": "16.19",
+        "seats": "8"
+    },
+    {
+        "party": "Partij van de Arbeid (P.v.d.A.)",
+        "votes": "29711",
+        "percentage": "12.30",
+        "seats": "6"
+    },
+    {
+        "party": "CDA",
+        "votes": "27160",
+        "percentage": "11.25",
+        "seats": "5"
+    },
+    {
+        "party": "Democraten 66 (D66)",
+        "votes": "23422",
+        "percentage": "9.70",
+        "seats": "4"
+    },
+    {
+        "party": "VVD",
+        "votes": "22089",
+        "percentage": "9.15",
+        "seats": "4"
+    },
+    {
+        "party": "ChristenUnie",
+        "votes": "21124",
+        "percentage": "8.75",
+        "seats": "4"
+    },
+    {
+        "party": "PVV (Partij voor de Vrijheid)",
+        "votes": "19340",
+        "percentage": "8.01",
+        "seats": "3"
+    },
+    {
+        "party": "Groninger Belang",
+        "votes": "15869",
+        "percentage": "6.57",
+        "seats": "3"
+    },
+    {
+        "party": "GROENLINKS",
+        "votes": "15701",
+        "percentage": "6.50",
+        "seats": "3"
+    },
+    {
+        "party": "Partij voor de Dieren",
+        "votes": "9078",
+        "percentage": "3.76",
+        "seats": "2"
+    },
+    {
+        "party": "Partij voor het Noorden",
+        "votes": "5173",
+        "percentage": "2.14",
+        "seats": "1"
+    },
+    {
+        "party": "50PLUS",
+        "votes": "4772",
+        "percentage": "1.98",
+        "seats": "0"
+    },
+    {
+        "party": "Seniorenpartij Groningen",
+        "votes": "2462",
+        "percentage": "1.02",
+        "seats": "0"
+    },
+    {
+        "party": "Groningen Centraal!",
+        "votes": "2182",
+        "percentage": "0.90",
+        "seats": "0"
+    },
+    {
+        "party": "Grunnegers veur Stad en Ommelaand",
+        "votes": "1498",
+        "percentage": "0.62",
+        "seats": "0"
+    },
+    {
+        "party": "Verenigde Communistische Partij",
+        "votes": "1238",
+        "percentage": "0.51",
+        "seats": "0"
+    },
+    {
+        "party": "Partij voor Mens en Spirit (MenS)",
+        "votes": "828",
+        "percentage": "0.34",
+        "seats": "0"
+    },
+    {
+        "party": "Red het Noorden",
+        "votes": "405",
+        "percentage": "0.17",
+        "seats": "0"
+    },
+    {
+        "party": "Vrij Mandaat",
+        "votes": "334",
+        "percentage": "0.14",
+        "seats": "0"
+    },
+    {
+        "party": "totaal",
+        "votes": "241479",
+        "percentage": "100",
+        "seats": "43"
+    }
+]

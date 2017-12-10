@@ -1,0 +1,80 @@
+[
+    {
+        "party": "VVD", 
+        "votes": "29537", 
+        "percentage": "15.22", 
+        "seats": "7"
+    }, 
+    {
+        "party": "Partij van de Arbeid (P.v.d.A.)", 
+        "votes": "29399", 
+        "percentage": "15.15", 
+        "seats": "7"
+    }, 
+    {
+        "party": "CDA", 
+        "votes": "27997", 
+        "percentage": "14.43", 
+        "seats": "6"
+    }, 
+    {
+        "party": "SP (Socialistische Partij)", 
+        "votes": "24404", 
+        "percentage": "12.57", 
+        "seats": "5"
+    }, 
+    {
+        "party": "PVV (Partij voor de Vrijheid)", 
+        "votes": "21108", 
+        "percentage": "10.88", 
+        "seats": "5"
+    }, 
+    {
+        "party": "Democraten 66 (D66)", 
+        "votes": "19120", 
+        "percentage": "9.85", 
+        "seats": "4"
+    }, 
+    {
+        "party": "ChristenUnie", 
+        "votes": "12472", 
+        "percentage": "6.43", 
+        "seats": "3"
+    }, 
+    {
+        "party": "GROENLINKS", 
+        "votes": "10037", 
+        "percentage": "5.17", 
+        "seats": "2"
+    }, 
+    {
+        "party": "50PLUS", 
+        "votes": "7817", 
+        "percentage": "4.03", 
+        "seats": "1"
+    }, 
+    {
+        "party": "STERK LOKAAL", 
+        "votes": "7057", 
+        "percentage": "3.64", 
+        "seats": "1"
+    }, 
+    {
+        "party": "Senioren Belang Noord", 
+        "votes": "3510", 
+        "percentage": "1.81", 
+        "seats": "0"
+    }, 
+    {
+        "party": "Staatkundig Gereformeerde Partij (SGP)", 
+        "votes": "1624", 
+        "percentage": "0.84", 
+        "seats": "0"
+    }, 
+    {
+        "party": "totaal", 
+        "votes": "194082", 
+        "percentage": "100", 
+        "seats": "41"
+    }
+]

@@ -1,0 +1,92 @@
+[
+    {
+        "party": "CDA", 
+        "votes": "55017",
+        "percentage": "20.79",
+        "seats": "9"
+    },
+    {
+        "party": "Partij van de Arbeid (P.v.d.A.)",
+        "votes": "40984",
+        "percentage": "15.49",
+        "seats": "7"
+    },
+    {
+        "party": "VVD",
+        "votes": "29085",
+        "percentage": "10.99",
+        "seats": "5"
+    },
+    {
+        "party": "SP (Socialistische Partij)",
+        "votes": "28930",
+        "percentage": "10.93",
+        "seats": "5"
+    },
+    {
+        "party": "FNP",
+        "votes": "25027",
+        "percentage": "9.46",
+        "seats": "4"
+    },
+    {
+        "party": "PVV (Partij voor de Vrijheid)",
+        "votes": "23112",
+        "percentage": "8.73",
+        "seats": "4"
+    },
+    {
+        "party": "ChristenUnie",
+        "votes": "19669",
+        "percentage": "7.43",
+        "seats": "3"
+    },
+    {
+        "party": "Democraten 66 (D66)",
+        "votes": "18454",
+        "percentage": "6.97",
+        "seats": "3"
+    },
+    {
+        "party": "GROENLINKS",
+        "votes": "9393",
+        "percentage": "3.55",
+        "seats": "1"
+    },
+    {
+        "party": "Partij voor de Dieren",
+        "votes": "6806",
+        "percentage": "2.57",
+        "seats": "1"
+    },
+    {
+        "party": "50PLUS",
+        "votes": "6372",
+        "percentage": "2.41",
+        "seats": "1"
+    },
+    {
+        "party": "Friese Koers",
+        "votes": "1001",
+        "percentage": "0.38",
+        "seats": "0"
+    },
+    {
+        "party": "Libertarische Partij (LP)",
+        "votes": "408",
+        "percentage": "0.15",
+        "seats": "0"
+    },
+    {
+        "party": "Verenigd Links-Feriene Lofts",
+        "votes": "347",
+        "percentage": "0.13",
+        "seats": "0"
+    },
+    {
+        "party": "totaal",
+        "votes": "264605",
+        "percentage": "100",
+        "seats": "43"
+    }
+]

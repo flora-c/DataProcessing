@@ -1,0 +1,86 @@
+[
+    {
+        "party": "CDA", 
+        "votes": "21847",
+        "percentage": "14.53",
+        "seats": "6"
+    },
+    {
+        "party": "VVD",
+        "votes": "20303",
+        "percentage": "13.51",
+        "seats": "6"
+    },
+    {
+        "party": "Staatkundig Gereformeerde Partij (SGP)",
+        "votes": "19629",
+        "percentage": "13.06",
+        "seats": "6"
+    },
+    {
+        "party": "SP (Socialistische Partij)",
+        "votes": "16262",
+        "percentage": "10.82",
+        "seats": "4"
+    },
+    {
+        "party": "PVV (Partij voor de Vrijheid)",
+        "votes": "15434",
+        "percentage": "10.27",
+        "seats": "4"
+    },
+    {
+        "party": "Partij van de Arbeid (P.v.d.A.)",
+        "votes": "14189",
+        "percentage": "9.44",
+        "seats": "4"
+    },
+    {
+        "party": "Democraten 66 (D66)",
+        "votes": "10403",
+        "percentage": "6.92",
+        "seats": "3"
+    },
+    {
+        "party": "ChristenUnie",
+        "votes": "8607",
+        "percentage": "5.73",
+        "seats": "2"
+    },
+    {
+        "party": "Zeeland Lokaal",
+        "votes": "5815",
+        "percentage": "3.87",
+        "seats": "1"
+    },
+    {
+        "party": "PARTIJ VOOR ZEELAND (PVZ)",
+        "votes": "5787",
+        "percentage": "3.85",
+        "seats": "1"
+    },
+    {
+        "party": "GROENLINKS",
+        "votes": "5198",
+        "percentage": "3.46",
+        "seats": "1"
+    },
+    {
+        "party": "50PLUS",
+        "votes": "4457",
+        "percentage": "2.97",
+        "seats": "1"
+    },
+    {
+        "party": "Provinciaal Belang Zeeland",
+        "votes": "2388",
+        "percentage": "1.59",
+        "seats": "0"
+    },
+    {
+        "party": "totaal",
+        "votes": "150319",
+        "percentage": "100",
+        "seats": "39"
+    }
+]

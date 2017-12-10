@@ -1,0 +1,332 @@
+[
+    {
+        "party": "VVD", 
+        "votes": "965353", 
+        "percentage": "15.92", 
+        "seats": "89"
+    }, 
+    {
+        "party": "CDA", 
+        "votes": "891845", 
+        "percentage": "14.71", 
+        "seats": "89"
+    }, 
+    {
+        "party": "Democraten 66 (D66)", 
+        "votes": "755719", 
+        "percentage": "12.46", 
+        "seats": "67"
+    }, 
+    {
+        "party": "PVV (Partij voor de Vrijheid)", 
+        "votes": "711176", 
+        "percentage": "11.73", 
+        "seats": "66"
+    }, 
+    {
+        "party": "SP (Socialistische Partij)", 
+        "votes": "706440", 
+        "percentage": "11.65", 
+        "seats": "70"
+    }, 
+    {
+        "party": "Partij van de Arbeid (P.v.d.A.)", 
+        "votes": "611262", 
+        "percentage": "10.08", 
+        "seats": "63"
+    }, 
+    {
+        "party": "GROENLINKS", 
+        "votes": "324572", 
+        "percentage": "5.35", 
+        "seats": "30"
+    }, 
+    {
+        "party": "ChristenUnie", 
+        "votes": "243209", 
+        "percentage": "4.01", 
+        "seats": "29"
+    }, 
+    {
+        "party": "Partij voor de Dieren", 
+        "votes": "210113", 
+        "percentage": "3.46", 
+        "seats": "18"
+    }, 
+    {
+        "party": "50PLUS", 
+        "votes": "204858", 
+        "percentage": "3.38", 
+        "seats": "14"
+    }, 
+    {
+        "party": "Staatkundig Gereformeerde Partij (SGP)", 
+        "votes": "170624", 
+        "percentage": "2.81", 
+        "seats": "18"
+    }, 
+    {
+        "party": "ChristenUnie-SGP", 
+        "votes": "42703", 
+        "percentage": "0.70", 
+        "seats": "2"
+    }, 
+    {
+        "party": "FNP", 
+        "votes": "25027", 
+        "percentage": "0.41", 
+        "seats": "4"
+    }, 
+    {
+        "party": "Ouderenpartij Noord-Holland", 
+        "votes": "19763", 
+        "percentage": "0.33", 
+        "seats": "1"
+    }, 
+    {
+        "party": "Groninger Belang", 
+        "votes": "15869", 
+        "percentage": "0.26", 
+        "seats": "3"
+    }, 
+    {
+        "party": "Lokaal Brabant", 
+        "votes": "15226", 
+        "percentage": "0.25", 
+        "seats": "1"
+    }, 
+    {
+        "party": "Hart voor Holland", 
+        "votes": "13452", 
+        "percentage": "0.22", 
+        "seats": "0"
+    }, 
+    {
+        "party": "Piratenpartij", 
+        "votes": "9885", 
+        "percentage": "0.16", 
+        "seats": "0"
+    }, 
+    {
+        "party": "Volkspartij Limburg", 
+        "votes": "9296", 
+        "percentage": "0.15", 
+        "seats": "0"
+    }, 
+    {
+        "party": "LOKAAL-LIMBURG", 
+        "votes": "8741", 
+        "percentage": "0.14", 
+        "seats": "1"
+    }, 
+    {
+        "party": "LOKAAL OVERIJSSEL", 
+        "votes": "7817", 
+        "percentage": "0.13", 
+        "seats": "0"
+    }, 
+    {
+        "party": "STERK LOKAAL", 
+        "votes": "7057", 
+        "percentage": "0.12", 
+        "seats": "1"
+    }, 
+    {
+        "party": "Nederland Lokaal", 
+        "votes": "7026", 
+        "percentage": "0.12", 
+        "seats": "0"
+    }, 
+    {
+        "party": "Lokaal Belang Gelderland / 1 Achterhoek", 
+        "votes": "6967", 
+        "percentage": "0.11", 
+        "seats": "0"
+    }, 
+    {
+        "party": "Lokale Partijen Gelderland", 
+        "votes": "6474", 
+        "percentage": "0.11", 
+        "seats": "0"
+    }, 
+    {
+        "party": "Verenigde Lokale Partijen Zuid-Holland", 
+        "votes": "6097", 
+        "percentage": "0.10", 
+        "seats": "0"
+    }, 
+    {
+        "party": "Zeeland Lokaal", 
+        "votes": "5815", 
+        "percentage": "0.10", 
+        "seats": "1"
+    }, 
+    {
+        "party": "PARTIJ VOOR ZEELAND (PVZ)", 
+        "votes": "5787", 
+        "percentage": "0.10", 
+        "seats": "1"
+    }, 
+    {
+        "party": "Vrouwen Partij (VP)", 
+        "votes": "5595", 
+        "percentage": "0.09", 
+        "seats": "0"
+    }, 
+    {
+        "party": "Partij voor het Noorden", 
+        "votes": "5173", 
+        "percentage": "0.09", 
+        "seats": "1"
+    }, 
+    {
+        "party": "Libertarische Partij (LP)", 
+        "votes": "4661", 
+        "percentage": "0.08", 
+        "seats": "0"
+    }, 
+    {
+        "party": "Multicultureel Plus Partij (M+)", 
+        "votes": "4222", 
+        "percentage": "0.07", 
+        "seats": "0"
+    }, 
+    {
+        "party": "Provincie@Inwonersbelangen", 
+        "votes": "3881", 
+        "percentage": "0.06", 
+        "seats": "0"
+    }, 
+    {
+        "party": "Senioren Belang Noord", 
+        "votes": "3510", 
+        "percentage": "0.06", 
+        "seats": "0"
+    }, 
+    {
+        "party": "JEZUS LEEFT", 
+        "votes": "3444", 
+        "percentage": "0.06", 
+        "seats": "0"
+    }, 
+    {
+        "party": "Partij voor Mens en Spirit (MenS)", 
+        "votes": "3309", 
+        "percentage": "0.05", 
+        "seats": "0"
+    }, 
+    {
+        "party": "Seniorenpartij Groningen", 
+        "votes": "2462", 
+        "percentage": "0.04", 
+        "seats": "0"
+    }, 
+    {
+        "party": "Provinciaal Belang Zeeland", 
+        "votes": "2388", 
+        "percentage": "0.04", 
+        "seats": "0"
+    }, 
+    {
+        "party": "PSP'92 Gelderland", 
+        "votes": "2348", 
+        "percentage": "0.04", 
+        "seats": "0"
+    }, 
+    {
+        "party": "Groningen Centraal!", 
+        "votes": "2182", 
+        "percentage": "0.04", 
+        "seats": "0"
+    }, 
+    {
+        "party": "Vrijzinnige Partij", 
+        "votes": "2098", 
+        "percentage": "0.03", 
+        "seats": "0"
+    }, 
+    {
+        "party": "Grunnegers veur Stad en Ommelaand", 
+        "votes": "1498", 
+        "percentage": "0.02", 
+        "seats": "0"
+    }, 
+    {
+        "party": "Vrede en Recht", 
+        "votes": "1337", 
+        "percentage": "0.02", 
+        "seats": "0"
+    }, 
+    {
+        "party": "Verenigde Communistische Partij", 
+        "votes": "1238", 
+        "percentage": "0.02", 
+        "seats": "0"
+    }, 
+    {
+        "party": "Partij voor Leefbaarheid en Democratie", 
+        "votes": "1218", 
+        "percentage": "0.02", 
+        "seats": "0"
+    }, 
+    {
+        "party": "Libertarische Partij", 
+        "votes": "1008", 
+        "percentage": "0.02", 
+        "seats": "0"
+    }, 
+    {
+        "party": "Friese Koers", 
+        "votes": "1001", 
+        "percentage": "0.02", 
+        "seats": "0"
+    }, 
+    {
+        "party": "OPA", 
+        "votes": "982", 
+        "percentage": "0.02", 
+        "seats": "0"
+    }, 
+    {
+        "party": "PLATFORM VRIJE POLITIEK", 
+        "votes": "836", 
+        "percentage": "0.01", 
+        "seats": "0"
+    }, 
+    {
+        "party": "StemNL", 
+        "votes": "648", 
+        "percentage": "0.01", 
+        "seats": "0"
+    }, 
+    {
+        "party": "Gelderse Centrumdemocraten (Gelderse C.D.)", 
+        "votes": "456", 
+        "percentage": "0.01", 
+        "seats": "0"
+    }, 
+    {
+        "party": "Red het Noorden", 
+        "votes": "405", 
+        "percentage": "0.01", 
+        "seats": "0"
+    }, 
+    {
+        "party": "Verenigd Links-Feriene Lofts", 
+        "votes": "347", 
+        "percentage": "0.01", 
+        "seats": "0"
+    }, 
+    {
+        "party": "Vrij Mandaat", 
+        "votes": "334", 
+        "percentage": "0.01", 
+        "seats": "0"
+    }, 
+    {
+        "party": "Totaal", 
+        "votes": "6064754", 
+        "percentage": "100", 
+        "seats": "569"
+    }
+]

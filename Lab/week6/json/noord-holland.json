@@ -1,0 +1,98 @@
+[
+    {
+        "party": "VVD", 
+        "votes": "178260",
+        "percentage": "18.58",
+        "seats": "11"
+    },
+    {
+        "party": "Democraten 66 (D66)",
+        "votes": "149362",
+        "percentage": "15.57",
+        "seats": "10"
+    },
+    {
+        "party": "Partij van de Arbeid (P.v.d.A.)",
+        "votes": "110001",
+        "percentage": "11.47",
+        "seats": "7"
+    },
+    {
+        "party": "PVV (Partij voor de Vrijheid)",
+        "votes": "105031",
+        "percentage": "10.95",
+        "seats": "6"
+    },
+    {
+        "party": "SP (Socialistische Partij)",
+        "votes": "101352",
+        "percentage": "10.57",
+        "seats": "6"
+    },
+    {
+        "party": "CDA",
+        "votes": "91525",
+        "percentage": "9.54",
+        "seats": "5"
+    },
+    {
+        "party": "GROENLINKS",
+        "votes": "68180",
+        "percentage": "7.11",
+        "seats": "4"
+    },
+    {
+        "party": "Partij voor de Dieren",
+        "votes": "45971",
+        "percentage": "4.79",
+        "seats": "3"
+    },
+    {
+        "party": "50PLUS",
+        "votes": "30638",
+        "percentage": "3.19",
+        "seats": "1"
+    },
+    {
+        "party": "ChristenUnie-SGP",
+        "votes": "25934",
+        "percentage": "2.70",
+        "seats": "1"
+    },
+    {
+        "party": "Ouderenpartij Noord-Holland",
+        "votes": "19763",
+        "percentage": "2.06",
+        "seats": "1"
+    },
+    {
+        "party": "Hart voor Holland",
+        "votes": "13452",
+        "percentage": "1.40",
+        "seats": "0"
+    },
+    {
+        "party": "Piratenpartij",
+        "votes": "9885",
+        "percentage": "1.03",
+        "seats": "0"
+    },
+    {
+        "party": "Vrouwen Partij (VP)",
+        "votes": "5595",
+        "percentage": "0.58",
+        "seats": "0"
+    },
+    {
+        "party": "Multicultureel Plus Partij (M+)",
+        "votes": "4222",
+        "percentage": "0.44",
+        "seats": "0"
+    },
+    {
+        "party": "totaal",
+        "votes": "959171",
+        "percentage": "100",
+        "seats": "55"
+    }
+]

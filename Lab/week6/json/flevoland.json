@@ -1,0 +1,86 @@
+[
+    {
+        "party": "VVD",
+        "votes": "21797",
+        "percentage": "16.67",
+        "seats": "7"
+    }, 
+    {
+        "party": "PVV (Partij voor de Vrijheid)",
+        "votes": "18837",
+        "percentage": "14.41",
+        "seats": "6"
+    },
+    {
+        "party": "CDA",
+        "votes": "16733",
+        "percentage": "12.80",
+        "seats": "5"
+    },
+    {
+        "party": "SP (Socialistische Partij)",
+        "votes": "14256",
+        "percentage": "10.90",
+        "seats": "5"
+    },
+    {
+        "party": "Democraten 66 (D66)",
+        "votes": "13798",
+        "percentage": "10.55",
+        "seats": "4"
+    },
+    {
+        "party": "Partij van de Arbeid (P.v.d.A.)",
+        "votes": "11352",
+        "percentage": "8.68",
+        "seats": "3"
+    },
+    {
+        "party": "ChristenUnie",
+        "votes": "9500",
+        "percentage": "7.27",
+        "seats": "3"
+    },
+    {
+        "party": "50PLUS",
+        "votes": "6743",
+        "percentage": "5.16",
+        "seats": "2"
+    },
+    {
+        "party": "GROENLINKS",
+        "votes": "5752",
+        "percentage": "4.40",
+        "seats": "2"
+    },
+    {
+        "party": "Partij voor de Dieren",
+        "votes": "5402",
+        "percentage": "4.13",
+        "seats": "2"
+    },
+    {
+        "party": "Staatkundig Gereformeerde Partij (SGP)",
+        "votes": "5189",
+        "percentage": "3.97",
+        "seats": "2"
+    },
+    {
+        "party": "OPA",
+        "votes": "982",
+        "percentage": "0.75",
+        "seats": "0"
+    },
+    {
+        "party": "JEZUS LEEFT",
+        "votes": "403",
+        "percentage": "0.31",
+        "seats": "0"
+    },
+    {
+        "party": "totaal",
+        "votes": "130744",
+        "percentage": "100",
+        "seats": "41"
+    }
+]

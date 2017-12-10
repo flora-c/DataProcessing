@@ -1,0 +1,80 @@
+[
+    {
+        "party": "CDA", 
+        "votes": "96435",
+        "percentage": "22.44",
+        "seats": "11"
+    },
+    {
+        "party": "VVD",
+        "votes": "53465",
+        "percentage": "12.44",
+        "seats": "6"
+    },
+    {
+        "party": "SP (Socialistische Partij)",
+        "votes": "46042",
+        "percentage": "10.71",
+        "seats": "5"
+    },
+    {
+        "party": "Partij van de Arbeid (P.v.d.A.)",
+        "votes": "45411",
+        "percentage": "10.57",
+        "seats": "5"
+    },
+    {
+        "party": "Democraten 66 (D66)",
+        "votes": "45009",
+        "percentage": "10.47",
+        "seats": "5"
+    },
+    {
+        "party": "PVV (Partij voor de Vrijheid)",
+        "votes": "40513",
+        "percentage": "9.43",
+        "seats": "5"
+    },
+    {
+        "party": "ChristenUnie",
+        "votes": "35953",
+        "percentage": "8.37",
+        "seats": "4"
+    },
+    {
+        "party": "Staatkundig Gereformeerde Partij (SGP)",
+        "votes": "18512",
+        "percentage": "4.31",
+        "seats": "2"
+    },
+    {
+        "party": "GROENLINKS",
+        "votes": "18493",
+        "percentage": "4.30",
+        "seats": "2"
+    },
+    {
+        "party": "50PLUS",
+        "votes": "12485",
+        "percentage": "2.91",
+        "seats": "1"
+    },
+    {
+        "party": "Partij voor de Dieren",
+        "votes": "9637",
+        "percentage": "2.24",
+        "seats": "1"
+    },
+    {
+        "party": "LOKAAL OVERIJSSEL",
+        "votes": "7817",
+        "percentage": "1.82",
+        "seats": "0"
+    },
+    {
+        "party": "totaal",
+        "votes": "429772",
+        "percentage": "100",
+        "seats": "47"
+    }
+]

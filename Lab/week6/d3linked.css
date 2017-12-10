@@ -1,0 +1,15 @@
+/*
+** Flora Boudewijnse
+** Student number: 10196153
+**
+** Stylesheet for d3line.html
+*/
+
+/* layout text */
+body {
+  font: 11px sans-serif;
+}
+
+p {
+  margin-left:3em;
+}

@@ -1,0 +1,104 @@
+[
+    {
+        "party": "VVD", 
+        "votes": "212470",
+        "percentage": "17.62",
+        "seats": "10"
+    },
+    {
+        "party": "PVV (Partij voor de Vrijheid)",
+        "votes": "172178",
+        "percentage": "14.28",
+        "seats": "8"
+    },
+    {
+        "party": "Democraten 66 (D66)",
+        "votes": "155252",
+        "percentage": "12.87",
+        "seats": "7"
+    },
+    {
+        "party": "CDA",
+        "votes": "146488",
+        "percentage": "12.15",
+        "seats": "7"
+    },
+    {
+        "party": "Partij van de Arbeid (P.v.d.A.)",
+        "votes": "120203",
+        "percentage": "9.97",
+        "seats": "5"
+    },
+    {
+        "party": "SP (Socialistische Partij)",
+        "votes": "112832",
+        "percentage": "9.36",
+        "seats": "5"
+    },
+    {
+        "party": "Staatkundig Gereformeerde Partij (SGP)",
+        "votes": "59753",
+        "percentage": "4.96",
+        "seats": "3"
+    },
+    {
+        "party": "ChristenUnie",
+        "votes": "57899",
+        "percentage": "4.80",
+        "seats": "3"
+    },
+    {
+        "party": "GROENLINKS",
+        "votes": "57296",
+        "percentage": "4.75",
+        "seats": "3"
+    },
+    {
+        "party": "Partij voor de Dieren",
+        "votes": "49150",
+        "percentage": "4.08",
+        "seats": "2"
+    },
+    {
+        "party": "50PLUS",
+        "votes": "45006",
+        "percentage": "3.73",
+        "seats": "2"
+    },
+    {
+        "party": "Nederland Lokaal",
+        "votes": "7026",
+        "percentage": "0.58",
+        "seats": "0"
+    },
+    {
+        "party": "Verenigde Lokale Partijen Zuid-Holland",
+        "votes": "6097",
+        "percentage": "0.51",
+        "seats": "0"
+    },
+    {
+        "party": "Libertarische Partij (LP)",
+        "votes": "2143",
+        "percentage": "0.18",
+        "seats": "0"
+    },
+    {
+        "party": "JEZUS LEEFT",
+        "votes": "1331",
+        "percentage": "0.11",
+        "seats": "0"
+    },
+    {
+        "party": "Vrijzinnige Partij",
+        "votes": "787",
+        "percentage": "0.07",
+        "seats": "0"
+    },
+    {
+        "party": "totaal",
+        "votes": "1205911",
+        "percentage": "100",
+        "seats": "55"
+    }
+]
